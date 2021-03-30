@@ -1,0 +1,50 @@
+Shows Name,Rating,Genres,Genre 1,Genre_1,Genre 2,Genre 3,Durations,Duration (mins),Votes,Cast_1,Cast_2,Cast_3,Cast_4
+Breaking Bad,9.5,"Crime, Drama, Thriller",Crime," Drama, Thriller", Drama, Thriller,49 min,49,1479889,Bryan Cranston,Aaron Paul,Anna Gunn,Betsy Brandt
+Game of Thrones,9.3,"Action, Adventure, Drama",Action," Adventure, Drama", Adventure, Drama,57 min,57,1783163,Emilia Clarke,Peter Dinklage,Kit Harington,Lena Headey
+The Wire,9.3,"Crime, Drama, Thriller",Crime," Drama, Thriller", Drama, Thriller,59 min,59,287866,Dominic West,Lance Reddick,Sonja Sohn,Wendell Pierce
+Rick and Morty,9.2,"Animation, Adventure, Comedy",Animation," Adventure, Comedy", Adventure, Comedy,23 min,23,380154,Justin Roiland,Chris Parnell,Spencer Grammer,Sarah Chalke
+Avatar: The Last Airbender,9.2,"Animation, Action, Adventure",Animation," Action, Adventure", Action, Adventure,23 min,23,251190,Dee Bradley Baker,Zach Tyler,Mae Whitman,Jack De Sena
+The Sopranos,9.2,"Crime, Drama",Crime, Drama, Drama,,55 min,55,305714,James Gandolfini,Lorraine Bracco,Edie Falco,Michael Imperioli
+Sherlock,9.1,"Crime, Drama, Mystery",Crime," Drama, Mystery", Drama, Mystery,88 min,88,812987,Benedict Cumberbatch,Martin Freeman,Una Stubbs,Rupert Graves
+Fullmetal Alchemist: Brotherhood,9.1,"Animation, Action, Adventure",Animation," Action, Adventure", Action, Adventure,24 min,24,123891,Kent Williams,Iemasa Kayumi,Vic Mignogna,Muriel Hofmann
+True Detective,9,"Crime, Drama, Mystery",Crime," Drama, Mystery", Drama, Mystery,55 min,55,502532,Vince Vaughn,Colin Farrell,Rachel McAdams,Taylor Kitsch
+Death Note,9,"Animation, Crime, Drama",Animation," Crime, Drama", Crime, Drama,24 min,24,242800,Mamoru Miyano,Brad Swaile,Vincent Tong,Ryô Naitô
+Firefly,9,"Adventure, Drama, Sci-Fi",Adventure," Drama, Sci-Fi", Drama, Sci-Fi,44 min,44,244871,Nathan Fillion,Gina Torres,Alan Tudyk,Morena Baccarin
+Fargo,8.9,"Crime, Drama, Thriller",Crime," Drama, Thriller", Drama, Thriller,53 min,53,330288,Billy Bob Thornton,Martin Freeman,Allison Tolman,Colin Hanks
+Attack on Titan,8.9,"Animation, Action, Adventure",Animation," Action, Adventure", Action, Adventure,24 min,24,210053,Yûki Kaji,Marina Inoue,Yui Ishikawa,Josh Grelle
+The Office,8.9,Comedy,Comedy,,,,22 min,22,421028,Steve Carell,Jenna Fischer,John Krasinski,Rainn Wilson
+Friends,8.9,"Comedy, Romance",Comedy, Romance, Romance,,22 min,22,835169,Jennifer Aniston,Courteney Cox,Lisa Kudrow,Matt LeBlanc
+The Mandalorian,8.8,"Action, Adventure, Sci-Fi",Action," Adventure, Sci-Fi", Adventure, Sci-Fi,40 min,40,300728,Pedro Pascal,Gina Carano,Giancarlo Esposito,Chris Bartlett
+Dark,8.8,"Crime, Drama, Mystery",Crime," Drama, Mystery", Drama, Mystery,60 min,60,289334,Louis Hofmann,Karoline Eichhorn,Lisa Vicari,Maja Schöne
+One Punch Man,8.8,"Animation, Action, Comedy",Animation," Action, Comedy", Action, Comedy,24 min,24,118373,Makoto Furukawa,Kaito Ishikawa,Max Mittelman,Zach Aguilar
+Narcos,8.8,"Biography, Crime, Drama",Biography," Crime, Drama", Crime, Drama,49 min,49,361109,Pedro Pascal,Wagner Moura,Boyd Holbrook,Alberto Ammann
+Peaky Blinders,8.8,"Crime, Drama",Crime, Drama, Drama,#VALUE!,60 min,60,356630,Cillian Murphy,Paul Anderson,Helen McCrory,Sophie Rundle
+Black Mirror,8.8,"Drama, Sci-Fi, Thriller",Drama," Sci-Fi, Thriller", Sci-Fi, Thriller,60 min,60,449277,Daniel Lapaine,Hannah John-Kamen,Michaela Coel,Beatrice Robertson-Jones
+It's Always Sunny in Philadelphia,8.8,Comedy,Comedy,,,,22 min,22,191388,Charlie Day,Glenn Howerton,Rob McElhenney,Kaitlin Olson
+Freaks and Geeks,8.8,"Comedy, Drama",Comedy, Drama, Drama,,44 min,44,130327,Linda Cardellini,John Francis Daley,James Franco,Samm Levine
+Twin Peaks,8.8,"Crime, Drama, Mystery",Crime," Drama, Mystery", Drama, Mystery,47 min,47,176835,Kyle MacLachlan,Michael Ontkean,Mädchen Amick,Dana Ashbrook
+Seinfeld,8.8,Comedy,Comedy,,,,22 min,22,257294,Jerry Seinfeld,Julia Louis-Dreyfus,Michael Richards,Jason Alexander
+Fleabag,8.7,"Comedy, Drama",Comedy, Drama,,,27 min,27,104028,Phoebe Waller-Bridge,Sian Clifford,Olivia Colman,Jenny Rainsford
+This Is Us,8.7,"Comedy, Drama, Romance",Comedy," Drama, Romance", Drama, Romance,45 min,45,108873,Milo Ventimiglia,Mandy Moore,Sterling K. Brown,Chrissy Metz
+The Crown,8.7,"Biography, Drama, History",Biography," Drama, History", Drama, History,58 min,58,154654,Claire Foy,Olivia Colman,Imelda Staunton,Matt Smith
+Stranger Things,8.7,"Drama, Fantasy, Horror",Drama," Fantasy, Horror", Fantasy, Horror,51 min,51,832576,Millie Bobby Brown,Finn Wolfhard,Winona Ryder,David Harbour
+BoJack Horseman,8.7,"Animation, Comedy, Drama",Animation," Comedy, Drama", Comedy, Drama,25 min,25,114818,Will Arnett,Amy Sedaris,Alison Brie,Aaron Paul
+Better Call Saul,8.7,"Crime, Drama",Crime, Drama, Drama,,46 min,46,328041,Bob Odenkirk,Rhea Seehorn,Jonathan Banks,Patrick Fabian
+House of Cards,8.7,Drama,Drama,,,,51 min,51,468706,Kevin Spacey,Michel Gill,Robin Wright,Kate Mara
+Top Gear,8.7,"Adventure, Comedy, Reality-TV",Adventure," Comedy, Reality-TV", Comedy, Reality-TV,60 min,60,109305,Jeremy Clarkson,Richard Hammond,James May,The Stig
+Downton Abbey,8.7,"Drama, Romance",Drama, Romance, Romance,,58 min,58,164968,Hugh Bonneville,Phyllis Logan,Elizabeth McGovern,Brendan Coyle
+The Boys,8.7,"Action, Comedy, Crime",Action," Comedy, Crime", Comedy, Crime,60 min,60,254060,Karl Urban,Jack Quaid,Antony Starr,Erin Moriarty
+House,8.7,"Drama, Mystery",Drama, Mystery, Mystery,,44 min,44,416865,Hugh Laurie,Omar Epps,Robert Sean Leonard,Jesse Spencer
+Battlestar Galactica,8.7,"Action, Adventure, Drama",Action," Adventure, Drama", Adventure, Drama,44 min,44,153552,Edward James Olmos,Mary McDonnell,Jamie Bamber,James Callis
+Rome,8.7,"Action, Drama, History",Action," Drama, History", Drama, History,52 min,52,155874,Kevin McKidd,Ray Stevenson,Polly Walker,Kerry Condon
+Arrested Development,8.7,Comedy,Comedy,,,,22 min,22,277972,Jason Bateman,Michael Cera,Portia de Rossi,Will Arnett
+Curb Your Enthusiasm,8.7,Comedy,Comedy,,,,28 min,28,103733,Larry David,Cheryl Hines,Jeff Garlin,Susie Essman
+Six Feet Under,8.7,"Comedy, Drama",Comedy, Drama, Drama,,55 min,55,121957,Peter Krause,Michael C. Hall,Frances Conroy,Lauren Ambrose
+Dragon Ball Z,8.7,"Animation, Action, Adventure",Animation," Action, Adventure", Action, Adventure,24 min,24,113985,Doc Harris,Christopher Sabat,Scott McNeil,Sean Schemmel
+South Park,8.7,"Animation, Comedy",Animation, Comedy, Comedy,,22 min,22,333206,Trey Parker,Matt Stone,Isaac Hayes,Mona Marshall
+Cobra Kai,8.6,"Action, Comedy, Drama",Action," Comedy, Drama", Comedy, Drama,30 min,30,112883,Ralph Macchio,William Zabka,Xolo Maridueña,Courtney Henggeler
+Mindhunter,8.6,"Crime, Drama, Thriller",Crime," Drama, Thriller", Drama, Thriller,60 min,60,220703,Jonathan Groff,Holt McCallany,Anna Torv,Hannah Gross
+Daredevil,8.6,"Action, Crime, Drama",Action," Crime, Drama", Crime, Drama,54 min,54,364510,Charlie Cox,Vincent D'Onofrio,Deborah Ann Woll,Elden Henson
+The Newsroom,8.6,Drama,Drama,,,,55 min,55,105146,Jeff Daniels,Emily Mortimer,John Gallagher Jr.,Alison Pill
+Shameless,8.6,"Comedy, Drama",Comedy, Drama, Drama,,46 min,46,205201,Emmy Rossum,William H. Macy,Ethan Cutkosky,Jeremy Allen White
+Archer,8.6,"Animation, Action, Comedy",Animation," Action, Comedy", Action, Comedy,22 min,22,138379,H. Jon Benjamin,Judy Greer,Amber Nash,Chris Parnell
